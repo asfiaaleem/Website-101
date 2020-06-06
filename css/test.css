@@ -1,0 +1,17 @@
+body{
+    background-color: blanchedalmond;
+}
+h1{
+font-size: 30px;
+color: indianred;
+}
+h2{
+color: #FF6D99;
+font-size: 20px;
+}
+.big{
+font-style: italic;
+}
+span{
+color: violet
+}
